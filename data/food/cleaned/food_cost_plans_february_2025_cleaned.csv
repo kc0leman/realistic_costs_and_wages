@@ -1,0 +1,16 @@
+Group,Sex,Age,Plan.Low Cost.Weekly,Plan.Low Cost.Monthly,Plan.Moderate Cost.Weekly,Plan.Moderate Cost.Monthly,Plan.Liberal Cost.Weekly,Plan.Liberal Cost.Monthly
+Child,Child,1 year,36.3,157.4,41.0,177.5,49.9,216.2
+Child,Child,2-3 years,38.0,164.9,45.9,198.8,55.7,241.5
+Child,Child,4-5 years,39.5,171.3,48.6,210.8,59.1,256.1
+Child,Child,6-8 years,56.8,246.1,66.9,290.0,78.4,339.8
+Child,Child,9-11 years,59.9,259.4,76.8,332.8,89.7,388.5
+Teen,Female,12-13 years,59.6,258.1,70.7,306.4,88.1,381.7
+Teen,Female,14-18 years,59.9,259.5,71.2,308.6,88.2,382.2
+Adult,Female,19-50 years,61.2,265.1,74.2,321.7,94.8,410.7
+Adult,Female,51-70 years,59.4,257.5,73.2,317.1,87.9,380.7
+Adult,Female,71+ years,59.3,257.0,72.7,315.0,86.8,376.1
+Teen,Male,12-13 years,69.9,302.9,86.7,375.5,101.7,440.8
+Teen,Male,14-18 years,71.3,309.0,89.0,385.6,103.8,449.7
+Adult,Male,19-50 years,70.4,304.9,88.1,381.8,107.3,464.8
+Adult,Male,51-70 years,66.1,286.3,82.7,358.5,98.9,428.5
+Adult,Male,71+ years,65.6,284.2,80.5,348.7,98.6,427.3
