@@ -1,0 +1,16 @@
+Group,Sex,Age,Plan.Low Cost.Weekly,Plan.Low Cost.Monthly,Plan.Moderate Cost.Weekly,Plan.Moderate Cost.Monthly,Plan.Liberal Cost.Weekly,Plan.Liberal Cost.Monthly
+Child,Child,1 year,$37.10,$160.80,$41.80,$181.10,$50.60,$219.40
+Child,Child,2-3 years,$38.70,$167.70,$46.30,$200.70,$56.50,$244.80
+Child,Child,4-5 years,$40.10,$173.60,$49.50,$214.40,$59.80,$259.00
+Child,Child,6-8 years,$58.90,$255.10,$68.10,$295.30,$79.50,$344.50
+Child,Child,9-11 years,$60.50,$262.30,$78.10,$338.40,$91.20,$395.20
+Teen,Female,12-13 years,$60.40,$261.80,$72.00,$311.90,$89.90,$389.70
+Teen,Female,14-18 years,$60.90,$263.90,$72.60,$314.70,$89.80,$388.90
+Adult,Female,19-50 years,$62.10,$269.30,$75.70,$328.00,$96.30,$417.30
+Adult,Female,51-70 years,$60.30,$261.50,$74.40,$322.30,$89.30,$387.00
+Adult,Female,71+ years,$60.40,$261.50,$74.10,$321.30,$88.40,$383.10
+Teen,Male,12-13 years,$71.30,$308.90,$88.30,$382.60,$103.50,$448.40
+Teen,Male,14-18 years,$72.50,$314.40,$90.70,$393.10,$106.40,$461.10
+Adult,Male,19-50 years,$71.60,$310.40,$89.70,$388.80,$109.40,$474.10
+Adult,Male,51-70 years,$67.20,$291.30,$84.60,$366.40,$100.80,$436.90
+Adult,Male,71+ years,$66.80,$289.30,$82.10,$355.60,$100.70,$436.40
