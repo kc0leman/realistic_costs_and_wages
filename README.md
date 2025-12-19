@@ -21,9 +21,7 @@ Rather than classifying outcomes as “affordable” or “unaffordable,” the 
 
 ---
 
-## Data Sources (Cite Your Links Here)
-This project uses cleaned CSVs derived from public datasets. Add the original source links below:
-
+## Data Sources
 - **Earnings by Degree Field (State-level)**: `data/fobd_by_state_cleaned.csv`  
   Source: https://www.census.gov/data/tables/2022/demo/educational-attainment/acs-detailed-tables.html
   https://www.census.gov/library/publications/2025/acs/acs-59.html
@@ -39,7 +37,7 @@ This project uses cleaned CSVs derived from public datasets. Add the original so
 
 ## Project Structure
 - `notebooks/`
-  - `final_affordability_analysis.ipynb` (main analysis notebook)
+  - `realistic_costs_and_wages.ipynb` (main analysis notebook)
   - optional prep notebooks (education/food/childcare cleaning work)
 - `data/`
   - cleaned CSV files used in the final notebook
