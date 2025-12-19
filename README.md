@@ -53,6 +53,6 @@ Rather than classifying outcomes as “affordable” or “unaffordable,” the 
 - **Childcare**: summed cost of **Infant + Toddler** center-based care by state.
 - **Food**: USDA low-cost plan monthly value converted to annual and scaled to approximate a household with a parent and children.
 - **Metric used**:  
-  **necessity_cost_pct = (annual_food_cost + annual_child_care_cost_two_children) / annual_earnings**
+  **necessity_cost_pct = (annual_food_cost + annual_child_care_cost_two_children) / annual_earnings**)
 
 ---
